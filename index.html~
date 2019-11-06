@@ -1,0 +1,436 @@
+
+<!-- saved from url=(0035)https://theory.stanford.edu/~klewi/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Aryan Mobiny - Houston Ubiquitous Learning Algorithms (HULA) Laboratory</title>
+
+  <meta name="viewport" content="width=device-width">
+  <meta name="viewport" content="initial-scale=1.0">
+
+  <link rel="stylesheet" type="text/css" href="./Resources/semantic.min.css">
+  <script type="text/javascript" async="" src="./Resources/ga.js"></script><script src="./Resources/semantic.js"></script>
+
+
+	<script type="text/javascript">
+			var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-32722990-1']);
+					_gaq.push(['_trackPageview']);
+
+						(function() {
+								var ga = document.createElement('script'); ga.type = 
+								'text/javascript'; ga.async = true;
+										ga.src = ('https:' == document.location.protocol ? 
+										'https://ssl' : 'http://www') + 
+										'.google-analytics.com/ga.js';
+												var s = document.getElementsByTagName('script')[0]; 
+												s.parentNode.insertBefore(ga, s);
+													})();
+
+	</script>
+</head>
+
+<body>
+
+<div class="ui stripe secondary inverted vertical masthead center aligned
+very padded segment">
+
+  <div class="ui text container">
+    <h1 class="ui inverted header">
+      <img class="ui small circular bordered image" src="./Resources/aryan.png">
+      <div class="content">
+        Aryan Mobiny
+        <div class="sub header">Houston Ubiquitous Learning Algorithms (HULA) Laboratory, Ph.D. Student</div>
+        <div class="sub header">amobiny at uh.edu</div>
+
+      </div>
+    </h1>
+  </div>
+
+</div>
+
+<div class="ui stripe secondary vertical center aligned segment">
+  <div class="ui two column divided very relaxed middle aligned stackable grid 
+  container">
+    <div class="row">
+      <div class="column">
+        <div class="ui left aligned container" style="font-size: 16">
+
+          <h2 class="ui center aligned header">Biography</h2>
+          <p>
+             I am PhD student in the Electrical and Computer Engineering at University of Houston.
+			 I am research assistant at Bio-Analytics Lab and fellow at the Center for Advanced
+			 Computing and Data Science (CACDS) at University of Houston.
+			 My research interests include machine learning, deep learning and computer vision.
+          </p>
+
+          <div class="ui hidden divider"></div>
+                   
+          <h2 class="ui center aligned header">Research</h2>
+          <p>
+            Biologist are continuously looking for automatic methods to reduce the human effort on 
+			tasks with large dataset. These methods should be fast and accurate simultaneously. 
+			
+          </p>
+          <p>
+		  My current research involves analysis of whole rat brain slices. 
+		  I am developing unique sets of deep learning and clustering based methods to detect
+		  and classify the cells and reveal previously unknown cellular differences in cells and 
+		  detect homogeneity among cells in brain.
+          </p>
+
+        </div>
+      </div>
+
+      <div class="column">
+        <div class="ui container">
+          <div class="hidden divider"></div>
+          <div class="ui large feed">
+		  
+			<div class="event">
+              <div class="label">
+                <img class="ui image" src="./Resources/cacdslogo.jpg">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2017 - Present
+                </div>
+                <div class="summary">
+                  Fellow at Center for Advanced Computing and Data Science (CACDS)
+                </div>
+                <div class="extra text">
+                </div>
+              </div>
+            </div>
+			
+            <div class="event">
+              <div class="label">
+                <img src="./Resources/uhlogo.jpg">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2015 - Present
+                </div>
+                <div class="summary">
+                  Ph.D. student in Electrical and Computer Engineering at University of Houston
+                </div>
+                <div class="extra text">
+                  Adviser: <a href="https://www.hvnguyen.com/">Dr. Hien Van Nguyen</a>
+                </div>
+              </div>
+            </div>
+
+			  <div class="event">
+              <div class="label">
+                <img class="ui image" src="./Resources/etf.png">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2017 - Present	
+                </div>
+                <div class="summary">
+                  Co-founder at Easy-TensorFlow
+                </div>
+                <div class="extra text">
+                </div>
+              </div>
+            </div>
+			
+              <div class="event">
+              <div class="label">
+                <img class="ui image" src="./Resources/ut.png">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2012 - Spring 2014
+                </div>
+                <div class="summary">
+                  M.S. in Electical and Computer Engineering from Tehran University
+                </div>
+                <div class="extra text">
+                </div>
+              </div>
+            </div>
+
+            <div class="event">
+              <div class="label">
+                <img class="ui image" src="./Resources/iust.jpg">
+              </div>
+              <div class="content">
+                <div class="date">
+                  Fall 2008 - Spring 2012
+                </div>
+                <div class="summary">
+                  B.S. in Electrical and Computer Engineering from Iran University of Science and Technology (IUST)
+                </div>
+                <div class="extra text">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="ui stripe very padded vertical segment">
+
+<h1 class="ui center aligned huge header">Publications</h1>
+
+<div class="ui hidden divider"></div>
+
+<div class="ui centered cards">
+  
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Fast CapsNet for Lung Cancer Screening</div>
+
+      <div class="meta">
+        <span>MICCAI 2018</span>
+      </div>
+      <div class="description">
+        <p>
+         This paper investigates the use of capsule networks (CapsNets) as an alternative to CNNs. We show that CapsNets significantly outperforms CNNs when the number of training samples is small. To increase the computational efficiency, our paper proposes a consistent dynamic routing mechanism that results in 3x speedup of CapsNet. Finally, we show that the original image reconstruction method of CapNets performs poorly on lung nodule data. We propose an efficient alternative, called convolutional decoder, that yields lower reconstruction error and higher classification accuracy.  
+
+        </p>
+
+        <p>
+        Joint work with <a href="https://www.hvnguyen.com/">Hien Van Nguyen</a>.
+        </p>
+      </div>
+    </div>
+    <div class="extra content">
+        
+          <a class="tiny ui left floated button" href="http://www2.cs.uh.edu/~gnawali/papers/chronodot-sensys14.pdf">
+            <i class="File Outline icon"></i> PDF
+          </a>
+        
+        
+    </div>
+  </div>
+  
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Lung Cancer Screening Using Adaptive Memory-Augmented Recurrent Networks</div>
+
+      <div class="meta">
+        <span>ArXiv 2017</span>
+      </div>
+      <div class="description">
+        <p>
+	we investigate the effectiveness of deep learning techniques for lung nodule classification in computed tomography scans. Using less than 10,000 training examples, deep networks perform 4.8 times better than a standard radiology software under the cross-error measure. Our paper also proposes a novel framework for rapidly adapting deep networks to the radiologists' feedback, or change in the data due to the shift in sensor's resolution or patient population. The classification accuracy of our approach remains above 80\% while popular deep networks' accuracy is around chance. Finally, we propose using inconsistency density function, computed by a recurrent network, as a way to discover potentially noisy labels in lung data.     
+	  </p>
+
+        <p>
+        Joint work with Joint work with <a href="https://www.hvnguyen.com/">Hien Van Nguyen</a> and Joint work with <a href="https://www.hvnguyen.com/">Supratik K. Moulik</a>.
+        </p>
+      </div>
+    </div>
+    <div class="extra content">
+        
+          <a class="tiny ui left floated button" href="./PDFs/ea-ipsn16.pdf">
+            <i class="file outline icon"></i> PDF
+          </a>
+        
+        
+    </div>
+  </div>
+  
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Effectiveness of a Task-based Residential Energy
+Efficiency Program in Oahu</div>
+
+      <div class="meta">
+        <span>Submitted to DCOSS 2016</span>
+      </div>
+      <div class="description">
+        <p>
+We planned several activities aiming to help people to save
+energy. We designed a program and asked volunteers to perform
+those activities at their homes for 3 months. We have access to
+monthly electricity bills for all the program’s participants. Our
+investigation revealed that energy savings among participants has
+close relationship to level of their engagement into the program.
+People who were highly involved into program saved much more
+energy (5%) compare to participants who did not engage enough.
+        </p>
+
+        <p>
+        Joint work with <a href="https://www.linkedin.com/in/davidmoss">David Moss</a>, and <a href="http://www.peoplepowerco.com/about/">Gene Wang</a>.
+        </p>
+      </div>
+    </div>
+    <!-- <div class="extra content">
+        
+          <a class="tiny ui left floated button" href="">
+            <i class="file pdf outline icon"></i> PDF
+          </a>
+        
+        
+    </div> -->
+  </div>
+  
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Accurately Initializing Real Time Clocks to Provide Synchronized Time in Sensor Networks</div>
+
+      <div class="meta">
+        <span>Submitted to DCOSS 2016</span>
+      </div>
+      <div class="description">
+        <p>
+In this work, we investigated several approaches to accurately initialize real time clocks with sub-second accuracy.
+Our experiments show by accurately initializing real time clocks, a time synchronized sensor network can be built without any energy or 
+complexity overhead of running sophisticated time synchronization protocol. 
+        </p>
+
+        <p>
+        Joint work with <a href="http://www.sdss.jhu.edu/~szalay/">Alex Szalay</a>
+        </p>
+      </div>
+    </div>
+    <!-- <div class="extra content">
+        
+          <a class="tiny ui left floated button" href="">
+            <i class="External icon"></i> PDF
+          </a>
+        
+        
+          <a class="tiny ui left floated button" href="">
+            <i class="slideshare icon"></i> Slides
+          </a>
+        
+    </div> -->
+  </div>
+  
+</div>
+
+</div>
+
+<div class="ui stripe secondary very padded vertical segment">
+
+<h1 class="ui center aligned huge header">Projects</h1>
+
+<div class="ui hidden divider"></div>
+
+<div class="ui centered cards">
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Government Shutdown 2013</div>
+      <div class="meta">
+      </div>
+      <div class="description">
+        <p>
+        Developed shell script to download home page of 500 governmental websites (once per minute) Applied text processing and data mining techniques to extract back-to-normal operation timestamp for each website measured performance of IT infrastructure in US government departments. As an example, we found out that 4% of US websites took longer than one day to update after shutdown ended 
+
+        </p>
+      </div>
+    </div>
+    <div class="extra content">
+    <a class="tiny ui left floated button" href="http://www2.cs.uh.edu/~gnawali/govtshutdown/">
+      <i class="External icon"></i> Web
+    </a>
+    </div>
+  </div>
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Non-Isothermal Displacement Flow of Buoyant Fluids</div>
+      <div class="meta">
+      </div>
+      <div class="description">
+        <p>
+        This research studies non-isothermal displacement flow of two miscible fluids in an inclined (tilt angle ranging from 0° to 90°) duct.
+
+        We used IR camera temperature imaging to track the fluid finger as it develops in the duct. 
+ 
+
+        </p>
+      </div>
+    </div>
+    <div class="extra content">
+      <a class="tiny ui left floated button" href="./PDFs/ir.pdf">
+      <i class="File Outline icon"></i> PDF
+      </a>
+      <a class="tiny ui left floated button" href="https://github.com/hmoradi/NonIsoThermal.git">
+      <i class="Github icon"></i> Github
+      </a>
+              
+        
+
+    </div>
+  </div>
+
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Life Under Your Feet</div>
+      <div class="meta">
+      </div>
+      <div class="description">
+        <p>
+        In this work, we deployed different types of sensors (Moisture, Temperature and ...) in soil and collect data for long periods. This work is in collaboration with Department of Earth and Planetary Sciences to help scientists study soil features during different natural events. 
+ 
+
+        </p>
+      </div>
+    </div>
+    <div class="extra content">
+      <a class="tiny ui left floated button" href="http://lifeunderyourfeet.org/en/">
+      <i class="External icon"></i> Web
+      </a>
+    </div>
+  </div>
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Utilizing Human Brain to Build an Anti-Phishing Solution</div>
+      <div class="meta">
+      </div>
+      <div class="description">
+        <p>
+        Human brain has a high potential process capacity and we want to utilize it to build an anti-phishing solution. Our way to reach to interact with brain is through its outputs. In this work, we attach several sensors (Gaze Tracker, SPO2, Airflow, Heart Rate and ...) to human body and asked our participants to distinguish Phishing emails from original ones. We are interested in common patterns among our participants.
+
+        </p>
+      </div>
+    </div>
+    <!-- <div class="extra content">
+      <a class="tiny ui left floated button" href="https://github.com/hmoradi/3DBuildingSimulator.git">
+      <i class="External icon"></i> Web
+      </a>
+    </div> -->
+  </div>
+
+  <div class="ui card">
+    <div class="content">
+      <div class="header">Wireless Carrier Sharing</div>
+      <div class="meta">
+      </div>
+      <div class="description">
+        <p>
+        In this project, we tried to quantify and compare network performance under different cellphone carriers. We developed an Android application to collected network performance information. We noticed significant difference between carriers at same time and location. We proposed an efficient solution based on end user service sharing which enhances network performance.
+        </p>
+      </div>
+    </div>
+    <!-- <div class="extra content">
+      <a class="tiny ui left floated button" href="https://github.com/hmoradi/3DBuildingSimulator.git">
+      <i class="External icon"></i> Web
+      </a>
+    </div> -->
+  </div>
+
+</div>
+
+
+
+<h3 class="ui center aligned header">More to come very soon...</h3>
+
+</div>
+
+
+<div class="ui stripe very padded vertical segment">
+
+Last updated March 4, 2016.
+
+</div>
+
+
+
+</body></html>
