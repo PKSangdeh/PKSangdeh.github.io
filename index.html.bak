@@ -1,5 +1,4 @@
 
-<!-- saved from url=(0035)https://theory.stanford.edu/~klewi/ -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Pedram Kheirkhah Sangdeh - Digital Wireless Communications Lab</title>
 
@@ -595,7 +594,7 @@ This project deals with a practical solution to decoding asynchronous uplink pac
       	</div>
       <div class="description">
 	<p style="text-align:justify">
-In this project, we are designing a framework enabling a WiFi AP to serve multiple IoT devices on each subcarriers. DNN helps us to desing a robust beamforming and ensure low-latency communication.        </p>
+In this project, we are designing a framework enabling a WiFi AP to serve multiple IoT devices on each subcarrier. DNN provides a robust beamforming and ensures low-latency communication.        </p>
       </div>
     </div>
   </div>
