@@ -9,22 +9,16 @@
   <script type="text/javascript" async="" src="./Resources/ga.js"></script><script src="./Resources/semantic.js"></script>
 
 
-	<script type="text/javascript">
-			var _gaq = _gaq || [];
-				_gaq.push(['_setAccount', 'UA-32722990-1']);
-					_gaq.push(['_trackPageview']);
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152070909-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-						(function() {
-								var ga = document.createElement('script'); ga.type = 
-								'text/javascript'; ga.async = true;
-										ga.src = ('https:' == document.location.protocol ? 
-										'https://ssl' : 'http://www') + 
-										'.google-analytics.com/ga.js';
-												var s = document.getElementsByTagName('script')[0]; 
-												s.parentNode.insertBefore(ga, s);
-													})();
+  gtag('config', 'UA-152070909-1');
+</script>
 
-	</script>
 </head>
 
 <body>
@@ -54,7 +48,7 @@ very padded segment">
 		src="./Resources/RG.png"
 		style="float: left; width: 30px; height: 30px; margin-right:0.2em; margin-left:0.2em; margin-bottom: 0.5em;; margin-top: 2%;"></a>
 			
-		<a href="./PDFs/resume.pdf"><img class="ui image" title="My Resume"
+		<a href="./PDFs/Resume_update_11_18_2019.pdf"><img class="ui image" title="My Resume"
 		src="./Resources/resumelogo.png"
 		style="float: left; width: 30px; height: 30px; margin-right:0.2em; margin-bottom: 0.5em;; margin-top: 2%;"></a>
 
@@ -107,7 +101,7 @@ very padded segment">
 		  	
             <div class="event">
               <div class="label">
-                <img src="./Resources/uofllogo.svg" style="float: left; width: 50px; height: 50px">
+                <img src="./Resources/uofl.png" style="float: left; width: 50px; height: 50px">
               </div>
               <div class="content">
                 <div class="date">
